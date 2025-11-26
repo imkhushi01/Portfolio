@@ -36,7 +36,7 @@
 # 🌐 **Website Preview**
 
 <p align="center">
-  <img src="./images/tab-recording-2025-11-26-14-12-15-0m27s.webm" alt="Portfolio Website Preview" width="80%"/>
+  <img src="./images/preview.gif" alt="Portfolio Website Preview" width="80%"/>
 </p>
 
 ---
