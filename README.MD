@@ -1,8 +1,5 @@
+
 # 🎀 **Premium README – Khushi Chauhan Portfolio Website**
-
----
-
-# <p align="center"><img src="assets/banner.png" width="100%" alt="Khushi Chauhan Banner"/></p>
 
 <p align="center">
   <b>Java Developer • Full-Stack Learner • Portfolio Website</b>
@@ -10,16 +7,16 @@
 
 <p align="center">
   <a href="https://github.com/imkhushi01/Portfolio/stargazers">
-    <img src="https://img.shields.io/github/stars/imkhushi01/Portfolio?style=flat-square&color=00a896" />
+    <img src="https://img.shields.io/github/stars/imkhushi01/Portfolio?style=for-the-badge&color=00a896" />
   </a>
   <a href="https://github.com/imkhushi01/Portfolio/forks">
-    <img src="https://img.shields.io/github/forks/imkhushi01/Portfolio?style=flat-square&color=028090" />
+    <img src="https://img.shields.io/github/forks/imkhushi01/Portfolio?style=for-the-badge&color=028090" />
   </a>
   <a href="https://github.com/imkhushi01/Portfolio">
-    <img src="https://img.shields.io/github/license/imkhushi01/Portfolio?style=flat-square&color=02c39a" />
+    <img src="https://img.shields.io/github/license/imkhushi01/Portfolio?style=for-the-badge&color=02c39a" />
   </a>
   <a href="https://imkhushi01.github.io/Portfolio/">
-    <img src="https://img.shields.io/badge/Live%20Website-00a896?style=flat-square&logo=google-chrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Live%20Website-00a896?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </p>
 
@@ -45,21 +42,21 @@
 
 A modern, responsive, and beautifully animated portfolio website for **Khushi Chauhan (Java Developer)**.
 
-This website highlights **projects, experience, skills, blogs, testimonials**, and makes it easy for clients or employers to connect.
+This website highlights **projects, experience, skills, blogs, testimonials**, and helps potential employers and clients connect easily.
 
 ---
 
 # 🚀 **Features**
 
 * Fully Responsive Layout
-* Dark/Light Mode with LocalStorage
+* Dark/Light Mode (with LocalStorage)
 * Smooth Scroll Animations (AOS)
 * Typing Animation
-* Animated Stats
-* Hover Interactions
-* Smart Navigation
+* Animated Statistics
+* Hover Effects
+* Smart Navigation System
 * SEO Friendly
-* High Performance
+* High Performance & Optimized
 
 ---
 
@@ -96,8 +93,7 @@ Portfolio/
 │   └── script.js
 ├── assets/
 │   ├── images/
-│   ├── portfolio-preview.gif   <-- your GIF
-│   └── banner.png              <-- your header banner
+│   └── preview.gif        <-- Your GIF
 ├── README.md
 └── .gitignore
 ```
@@ -106,20 +102,20 @@ Portfolio/
 
 # ⚙️ **Customization Guide**
 
-### Update Branding (index.html)
+### Branding (index.html)
 
 ```html
-<h2>Rajeev Nayan</h2>
+<h2>Your Name</h2>
 ```
 
-### Update Hero Section
+### Hero Section
 
 ```html
 <h1>Hi, I'm Your Name — Your Title</h1>
 <p>Your professional tagline</p>
 ```
 
-### Contact
+### Contact Details
 
 ```html
 <span>Your Phone Number</span>
@@ -156,17 +152,17 @@ body.dark-mode {
 
 # 🚀 **Deployment**
 
-### **🔗 Live Website:**
+### 🔗 **Live Website**
 
 👉 [https://imkhushi01.github.io/Portfolio/](https://imkhushi01.github.io/Portfolio/)
 
 ### GitHub Pages
 
-* Push → Settings → Pages → Deploy from `main`
+* Push changes → Settings → Pages → Deploy from `main`
 
 ### Netlify / Vercel
 
-* Import repo → Deploy
+* Import repository → Build & Deploy
 
 ---
 
@@ -174,7 +170,7 @@ body.dark-mode {
 
 **Khushi Chauhan**
 
-* Email: [khushi.chauhan@example.com](mailto:khushi.chauhan@example.com)
+* Email: [chauhankhushi694@gmail.com](mailto:chauhankhushi694@gmail.com)
 * LinkedIn: [https://linkedin.com/in/khushi-chauhan](https://linkedin.com/in/khushi-chauhan)
 * GitHub: [https://github.com/imkhushi01](https://github.com/imkhushi01)
 * Phone: +91 1234567890
@@ -184,8 +180,7 @@ body.dark-mode {
 # 🙏 **Thank You!**
 
 If you like this portfolio,
-⭐ **please star the repository!**
+⭐ **Please consider starring the repository!**
 👉 [https://github.com/imkhushi01/Portfolio](https://github.com/imkhushi01/Portfolio)
 
 ---
-
