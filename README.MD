@@ -30,14 +30,6 @@
 
 ---
 
-# 🌐 **Website Preview**
-
-<p align="center">
-  <img src="./images/preview.gif" alt="Portfolio Website Preview" width="80%"/>
-</p>
-
----
-
 # 🌟 **Portfolio Website – Overview**
 
 A modern, responsive, and beautifully animated portfolio website for **Khushi Chauhan (Java Developer)**.
